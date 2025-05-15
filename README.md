@@ -1,0 +1,1 @@
+During this task I worked with different string functions and their use cases such as: Length, Upper & Lower, Trims, Replace, Locate and Concat. I also worked with Case Statement syntaxis and when is appropriate to use them. ☆
